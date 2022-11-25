@@ -1,4 +1,4 @@
-##Requirements
+## Requirements
 * Node.js with the following modules
     * body-parser: ~1.13.2
     * cookie-parser: ~1.3.5
@@ -11,8 +11,8 @@
     * passport: ~0.3.2
     * slugify: ~0.1.1
 
-##Installation
+## Installation
 * Install dependencies in `package.json`: `npm install`
 
-##Usage
+## Usage
 * Execute `node bin/www.js` from project directory
